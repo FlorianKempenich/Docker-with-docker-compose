@@ -1,4 +1,4 @@
-FROM Docker:latest
+FROM docker:latest
 
 # Install docker-compose
 RUN apk add --no-cache py-pip
